@@ -1,0 +1,2 @@
+ ./manage.py lms waffle_flag --create --everyone learner_home_mfe.enabled
+ ./manage.py lms waffle_flag --create --everyone learner_recommendations.enable_dashboard_recommendations
