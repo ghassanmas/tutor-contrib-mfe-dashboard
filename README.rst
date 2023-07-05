@@ -2,7 +2,7 @@ Tutor plugin to enable learner dashboard MFE for `Tutor <https://docs.tutor.over
 ===========================================================================================
 
 
-**Note**: This is not maintaioned, please use this plugin instead https://github.com/openedx/openedx-tutor-plugins/tree/main/plugins/tutor-contrib-learner-dashboard-mfe 
+**Note**: This is not maintained, please use this plugin instead https://github.com/openedx/openedx-tutor-plugins/tree/main/plugins/tutor-contrib-learner-dashboard-mfe 
 
 Overview
 --------
